@@ -1,4 +1,4 @@
-<h2 align="center" margin="30px">Меня зовут Минкаил, Я Frontend(React) - разработчик! 👋🏻</h2>
+<h2 align="center" margin="30">Меня зовут Минкаил, Я Frontend(React) - разработчик! 👋🏻</h2>
 
 <h2>Мой стек:</h2>
 
