@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1>Frontend(React, Nodejs) developer</h1>
 
-<!--
-**Minkaill/Minkaill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Стек:</h2>
 
-Here are some ideas to get you started:
+- JavaScript
+- React
+- Redux
+- Redux Toolkit
+- React router
+- Bootstrap
+- Node JS
+- Webpack
+- Express
+- Mongoose
+- MongoDB
+- Axios
+- Nextjs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+## Мои проекты:
+
+
+* #### Отель Turamisumo - место отдыха клиентов, бронирование отелей и столиков ресторана. Территория для семейного отдыха!
+
+[client-code](https://github.com/Minkaill/TuramisumoFrontend.git)
+
+[backend-code](https://github.com/Minkaill/Turamisumo.git)
+
+***
+
+
+* #### Mister - магазин мужской классической и брендовой одежды. Часы, ремни, гаслтуки, рубашки, брюки и обувь. Все для мужчин!
+
+[client-code](https://github.com/Minkaill/StrimFrontend.git)
+
+[backend-code](https://github.com/Minkaill/StrimBackend.git)
+
+***
+## Связь со мной: 
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/fringle228)
