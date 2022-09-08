@@ -7,6 +7,9 @@
 - Redux
 - Redux Toolkit
 - React router
+- HTML
+- SCSS
+- CSS
 - Bootstrap
 - Node JS
 - Webpack
