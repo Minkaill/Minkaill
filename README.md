@@ -1,6 +1,6 @@
 <h1>Меня зовут Минкаил, Я Frontend(React, NodeJs) - разработчик!</h1>
 
-<h2>Стек:</h2>
+<h2>Мой стэк:</h2>
 
 - JavaScript
 - React
