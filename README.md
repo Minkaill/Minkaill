@@ -1,4 +1,4 @@
-<h1>Frontend(React, Nodejs) developer</h1>
+<h1>Меня зовут Минкаил, Я Frontend(React, NodeJs) - разработчик!</h1>
 
 <h2>Стек:</h2>
 
