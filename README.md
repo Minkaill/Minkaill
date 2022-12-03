@@ -1,43 +1,34 @@
 <h2 align="center" margin="30">Меня зовут Минкаил, Я Frontend - разработчик! 👋🏻</h2>
 
-<h2>Мой стек:</h2>
+<h2>Мой основной стек на frontend:</h2>
 
-- JavaScript
-- React
-- Redux
-- Redux Toolkit
-- React router
-- HTML
-- SCSS
-- CSS
-- Bootstrap
-- Node JS
-- Webpack
-- Express
-- Mongoose
-- MongoDB
-- Axios
-- Nextjs
+- JavaScript, TypeScript
+- React, NextJs
+- Redux, Redux Thunk, Redux Toolkit
+- React Hook Form, Yup, EditorJs
+- ESlint, Prettier
+- SASS/SCSS / CSS Modules / styled-components
+- Material UI / Bootstrap
+- Webpack / Gulp
 
-***
-## Мои проекты:
+## Работы:
 
 
-* #### Отель Turamisumo - место отдыха клиентов, бронирование отелей и столиков ресторана. Территория для семейного отдыха!
+Turamisumo - приложение для отеля:
 
-[client-code](https://github.com/Minkaill/TuramisumoFrontend.git)
+* [client-code](https://github.com/Minkaill/TuramisumoFrontend.git)
 
-[backend-code](https://github.com/Minkaill/Turamisumo.git)
+* [backend-code](https://github.com/Minkaill/Turamisumo.git)
 
 ***
 
 
-* #### Mister - магазин мужской классической и брендовой одежды. Часы, ремни, галстуки, рубашки, брюки и обувь. Все для мужчин!
+Mister - магазин мужской классической одежды: 
 
-[client-code](https://github.com/Minkaill/StrimFrontend.git)
+* [client-code](https://github.com/Minkaill/StrimFrontend.git)
 
-[backend-code](https://github.com/Minkaill/StrimBackend.git)
+* [backend-code](https://github.com/Minkaill/StrimBackend.git)
 
 ***
 ## Связь со мной: 
-[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/fringle228)
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/mklhdv)
