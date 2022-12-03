@@ -1,5 +1,3 @@
-<h2 align="center" margin="30">Меня зовут Минкаил, Я Frontend - разработчик! 👋🏻</h2>
-
 <h2>Мой основной стек на frontend:</h2>
 
 - JavaScript, TypeScript
