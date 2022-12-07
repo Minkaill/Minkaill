@@ -28,5 +28,13 @@ Mister - магазин мужской классической одежды:
 * [backend-code](https://github.com/Minkaill/StrimBackend.git)
 
 ***
+
+Sneaker Corner - магазин кроссовок:
+
+* [code](https://github.com/Minkaill/StrimFrontend.git)
+
+* [demo](https://minkaill.github.io/SneakerCorner/)
+
+***
 ## Связь со мной: 
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/mklhdv)
