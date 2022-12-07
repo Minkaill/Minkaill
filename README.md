@@ -31,7 +31,7 @@ Mister - магазин мужской классической одежды:
 
 Sneaker Corner - магазин кроссовок:
 
-* [code](https://github.com/Minkaill/StrimFrontend.git)
+* [code](https://github.com/Minkaill/SneakerCorner.git)
 
 * [demo](https://minkaill.github.io/SneakerCorner/)
 
