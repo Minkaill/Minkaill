@@ -1,4 +1,4 @@
-<h2>Мой основной стек на frontend:</h2>
+<h2>My stack:</h2>
 
 - JavaScript, TypeScript
 - React, NextJs
@@ -9,7 +9,7 @@
 - Material UI / Bootstrap
 - Webpack / Gulp
 
-## Работы:
+## Works:
 
 Sneaker Corner - магазин кроссовок:
 
