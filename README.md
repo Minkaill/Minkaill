@@ -1,15 +1,5 @@
-<h2>My stack:</h2>
 
-- JavaScript, TypeScript
-- React, NextJs
-- Redux, Redux Thunk, Redux Toolkit
-- React Hook Form, Yup
-- ESlint, Prettier
-- SASS/SCSS / CSS Modules / styled-components
-- Material UI / Bootstrap
-- Webpack / Gulp
-
-## Works:
+## My Works:
 
 Sneaker Corner - магазин кроссовок:
 
