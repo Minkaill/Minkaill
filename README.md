@@ -11,6 +11,14 @@
 
 ## Работы:
 
+Sneaker Corner - магазин кроссовок:
+
+* [code](https://github.com/Minkaill/SneakerCorner.git)
+
+* [demo](https://minkaill.github.io/SneakerCorner/)
+
+***
+
 
 Turamisumo - приложение для отеля:
 
@@ -29,12 +37,5 @@ Mister - магазин мужской классической одежды:
 
 ***
 
-Sneaker Corner - магазин кроссовок:
-
-* [code](https://github.com/Minkaill/SneakerCorner.git)
-
-* [demo](https://minkaill.github.io/SneakerCorner/)
-
-***
 ## Связь со мной: 
 [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/mklhdv)
