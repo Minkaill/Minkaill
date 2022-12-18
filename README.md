@@ -9,7 +9,7 @@
 </div>
 <br>
 
-[![LinkedIn](https://img.shields.io/static/v1?logo=linkedin&label=&message=@shadowinhaze&color=2e3440&logoColor=acdeaa&style=flat-square)](https://hh.ru/resume/b71d1eafff0b3e95a00039ed1f6f764c776d61)
+[![LinkedIn](https://img.shields.io/static/v1?logo=linkedin&label=&message=@myresume&color=2e3440&logoColor=acdeaa&style=flat-square)](https://hh.ru/resume/b71d1eafff0b3e95a00039ed1f6f764c776d61)
 
 ---
 
