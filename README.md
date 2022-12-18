@@ -19,7 +19,7 @@
 &nbsp;&nbsp;&nbsp;
 <br>
 
-![stack](https://img.shields.io/static/v1?label=&message=Techs:&color=748fac&style=flat-square)
+![techs](https://img.shields.io/static/v1?label=&message=Stack:&color=748fac&style=flat-square)
 ![react](https://img.shields.io/static/v1?logo=react&label=&message=React&color=2e3440&logoColor=acdeaa&style=flat-square)
 ![nodejs](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.js&color=2e3440&logoColor=acdeaa&style=flat-square)
 &nbsp;&nbsp;&nbsp;
