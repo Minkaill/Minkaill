@@ -27,5 +27,3 @@
 
 ![editor](https://img.shields.io/static/v1?label=&message=Editor:&color=748fac&style=flat-square)
 ![vsc](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=VSC&color=2e3440&logoColor=acdeaa&style=flat-square)
-
----
