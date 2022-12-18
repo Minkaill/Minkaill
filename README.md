@@ -25,10 +25,6 @@
 &nbsp;&nbsp;&nbsp;
 <br>
 
-![tools](https://img.shields.io/static/v1?label=&message=Tools:&color=748fac&style=flat-square)
-![webpack](https://img.shields.io/static/v1?logo=webpack&label=&message=WebPack&color=2e3440&logoColor=acdeaa&style=flat-square)
-![vite](https://img.shields.io/static/v1?logo=vite&label=&message=Vite&color=2e3440&logoColor=acdeaa&style=flat-square)
-&nbsp;&nbsp;&nbsp;
 ![editor](https://img.shields.io/static/v1?label=&message=Editor:&color=748fac&style=flat-square)
 ![vsc](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=VSC&color=2e3440&logoColor=acdeaa&style=flat-square)
 
