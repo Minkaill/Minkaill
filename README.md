@@ -1,6 +1,6 @@
 ### I'm Minkail.
 
-<sup>🛸 &#5125; And you're definitely here by coincidence...</sup>
+<sup>And you're definitely here by coincidence...</sup>
 
 ---
 
