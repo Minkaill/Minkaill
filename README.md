@@ -1,4 +1,4 @@
-### <span style="color:#acdeaa;">></span> Cześć, I am Jan <span style="color:#acdeaa;">\_</span>
+### <span style="color:#acdeaa;">></span>I am Minkail <span style="color:#acdeaa;">\_</span>
 
 <sup>🛸 &#5125; And you're definitely here by coincidence...</sup>
 
