@@ -13,6 +13,7 @@
 
 <em style="width: 50%;">My Stack</em>
 
+<em style="width: 50%;">
 - React JS(React Hooks,Redux Toolkit,Typescript,React Router)
 - Node JS + MongoDB(Mongoose,Express + Авторизация(jwt, bcrypt))
 - HTML5(адаптивная, кроссбраузерная верстка)
@@ -25,3 +26,4 @@
 - Babel
 - Git
 - figma
+</em>
