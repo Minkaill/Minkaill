@@ -11,7 +11,7 @@
 
 ---
 
-**My stack:**
+<em style="width: 50%;">My Stack</em>
 
 - React JS(React Hooks,Redux Toolkit,Typescript,React Router)
 - Node JS + MongoDB(Mongoose,Express + Авторизация(jwt, bcrypt))
