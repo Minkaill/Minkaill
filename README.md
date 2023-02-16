@@ -17,7 +17,6 @@
 - Node JS + MongoDB(Mongoose,Express + Авторизация(jwt, bcrypt))
 - HTML5(адаптивная, кроссбраузерная верстка)
 - CSS3(SCSS,TailwindCss,MUI,Flowbite,Spinners,Postcss,PixelPerfect, AOS(анимации)),
-- figma
 - Javascript(es5,es6+)
 - Strapi(DB), MongoDB
 - axios/fetch[async/await]
@@ -25,3 +24,4 @@
 - Webpack
 - Babel
 - Git
+- figma
