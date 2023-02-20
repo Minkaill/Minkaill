@@ -17,7 +17,7 @@
 - HTML5(адаптивная, кроссбраузерная верстка)
 - CSS3(SCSS,TailwindCss,MUI,Skeleton,Flowbite,Spinners,Postcss,PixelPerfect, AOS(анимации)),
 - Javascript(es5,es6+)
-- Strapi(DB), MongoDB
+- Strapi
 - axios/fetch[async/await]
 - REST API
 - Webpack
