@@ -8,6 +8,8 @@
   <em>I'm a Front-End developer. So I advise you to invite me to your team as soon as possible, before I become a rich lonely developer for a quadrillion bucks. (joke) </em>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&width=2000&lines=I'm+a+Front-End+developer.+So+I+advise+you+to+invite+me+to+your+team+as+soon+as+possible%2C+before+I+become+a+rich+lonely+developer+for+a+quadrillion+bucks.+(joke)+)](https://git.io/typing-svg)
+
 ---
 
 <em style="width: 50%;">My Stack</em>
