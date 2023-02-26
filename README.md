@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I'm+Minkail.)](https://git.io/typing-svg)
 
-<sup>And you're definitely here by coincidence...</sup>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F7F7F7&width=435&lines=And+you're+definitely+here+by+coincidence...)](https://git.io/typing-svg)
 
 ---
 
