@@ -8,7 +8,6 @@
 </div>
 
 ---
-
 <em style="width: 50%;">My Stack</em>
 
 - React JS(React Hooks,Redux Toolkit,Typescript,React Router)
