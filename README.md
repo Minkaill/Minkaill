@@ -12,7 +12,8 @@
 
 <em style="width: 50%;">My Stack</em>
 
-- React JS(React Hooks,Redux Toolkit,Typescript,React Router)
+- Typescript
+- React JS(React Hooks,Redux Toolkit,React Router)
 - Next JS(SSR,SSG)
 - Svelte
 - Node JS + MongoDB(Mongoose,Express + Авторизация(jwt, bcrypt))
