@@ -14,6 +14,7 @@
 
 - React JS(React Hooks,Redux Toolkit,Typescript,React Router)
 - Next JS(SSR,SSG)
+- Svelte
 - Node JS + MongoDB(Mongoose,Express + Авторизация(jwt, bcrypt))
 - HTML5(адаптивная, кроссбраузерная верстка)
 - CSS3(SCSS,TailwindCss,MUI,Skeleton,Flowbite,Spinners,Postcss,PixelPerfect, AOS(анимации)),
