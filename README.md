@@ -21,9 +21,9 @@
 - CSS3(SCSS,TailwindCss,MUI,Skeleton,Flowbite,Spinners,Postcss,PixelPerfect, AOS(анимации)),
 - Javascript(es5,es6+)
 - Strapi
-- axios/fetch[async/await]
+- Axios/Fetch[async/await]
 - REST API
 - Webpack
 - Babel
 - GitHub
-- figma
+- Figma
