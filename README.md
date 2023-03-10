@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=My+stack)](https://git.io/typing-svg)
 
-<br/>
-
 - Typescript
 - React JS(React Hooks,Redux Toolkit,React Router)
 - Next JS(SSR,SSG)
