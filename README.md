@@ -2,6 +2,8 @@
 
 <div style="width: 50%;">My Stack</div>
 
+<br/>
+
 - Typescript
 - React JS(React Hooks,Redux Toolkit,React Router)
 - Next JS(SSR,SSG)
