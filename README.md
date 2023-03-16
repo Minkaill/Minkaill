@@ -15,5 +15,5 @@
 - REST API
 - Webpack
 - Babel
-- GitHub
+- Git
 - Figma
