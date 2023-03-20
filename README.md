@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I'm+Minkail.)](https://git.io/typing-svg)
 
-<h3>My stack:</h3>
+<h3>My stack: </h3>
 
 - Typescript
 - React JS(React Hooks,Redux Toolkit,React Router)
