@@ -8,7 +8,7 @@
 - Svelte
 - Node JS + MongoDB(Mongoose,Express + Авторизация(jwt, bcrypt))
 - HTML5(адаптивная, кроссбраузерная верстка)
-- CSS3(SCSS,TailwindCss,MUI,AntDesign,Skeleton,Flowbite,Spinners,Postcss,Styles Components,PixelPerfect, AOS(анимации)),
+- CSS3(SCSS,TailwindCss,MUI,AntDesign,Skeleton,Flowbite,Spinners,Postcss,Styled Components,PixelPerfect, AOS(анимации)),
 - Javascript(es5,es6+)
 - Strapi
 - Axios/Fetch[async/await]
